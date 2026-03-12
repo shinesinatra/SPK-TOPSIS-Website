@@ -12,7 +12,7 @@ Sistem Pendukung Keputusan berbasis website menggunakan metode TOPSIS.
 ## Teknologi
 - PHP
 - MySQL
-- Bootstrap
+- Tailwind
 
 ## Cara Menjalankan
 1. Clone repository
